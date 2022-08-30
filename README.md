@@ -5,7 +5,7 @@ You can add the bot to your server today using this link: https://discord.com/ap
 Updates:
 
   8/29/22 Beta
-    - "!DharQuote" fucntion added - This will give a random Dhar Mann quote to the user
+    - "$DharQuote" fucntion added - This will give a random Dhar Mann quote to the user
     - Welcomes users to the server
     - Responds with "What would Dhar Mann do?" whenever a swear word is used (because why not)
     - Future features will be added; this bot is far from finished
