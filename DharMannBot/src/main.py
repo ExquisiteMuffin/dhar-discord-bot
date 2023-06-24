@@ -5,7 +5,7 @@ bugLog = open("bugs.txt", "a")
 HELP = """$dhar-quote - gives a fantastic Dhar Mann quote
 $dhar-so-you-see (enter message you want) - writes a "So you see..." sentence
 $dhar-bug (enter issue with bot) records any issue you have with the bot and sends it to him"""
-TOKEN = 'MTAxMjkxMTY1NjYyNTUwODQ3Mg.G0mFd1.mepG72A1ga5CPXeaIqnFlJlTDy7foWs9pPf4SE'
+TOKEN = 'NA'
 client = discord.Client(intents=discord.Intents.all())
 DHAR_QUOTES = ["'What happens in the dark always comes to light.'", 
                "'People should like you for who you are, not for what you have.'", 
